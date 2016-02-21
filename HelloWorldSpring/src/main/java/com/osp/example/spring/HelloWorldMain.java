@@ -8,12 +8,16 @@ import com.osp.example.bean.HelloWorldBean;
 /**
  * Hello world!
  *
+ * @author muthukumar thangavinayagam
+ *
  */
 public class HelloWorldMain 
 {
-    public static void main( String[] args )
+    private static ApplicationContext context;
+
+	public static void main( String[] args )
     {
-    	ApplicationContext context = new ClassPathXmlApplicationContext("SpringHelloWorld.xml");
+    	context = new ClassPathXmlApplicationContext("SpringHelloWorld.xml");
     	
     	HelloWorldBean bean = (HelloWorldBean)context.getBean("helloBean");
     	
