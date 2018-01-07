@@ -1,8 +1,8 @@
-package com.osp.dependencyinjection;
+package com.dn.dependencyinjection;
 
-import com.osp.dependencyinjection.helper.OSPDrawing;
-import com.osp.dependencyinjection.injector.OSPCircle;
-import com.osp.dependencyinjection.injector.OSPTriangle;
+import com.dn.dependencyinjection.helper.OSPDrawing;
+import com.dn.dependencyinjection.injector.OSPCircle;
+import com.dn.dependencyinjection.injector.OSPTriangle;
 
 /**
  * @author muthukumar thangavinayagam

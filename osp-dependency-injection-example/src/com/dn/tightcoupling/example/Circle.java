@@ -1,4 +1,4 @@
-package com.osp.tightcoupling.example;
+package com.dn.tightcoupling.example;
 
 /**
  * @author muthukumar

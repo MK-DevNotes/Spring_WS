@@ -1,4 +1,4 @@
-package com.osp.dependencyinjection.service;
+package com.dn.dependencyinjection.service;
 
 public interface OSPShape {
 

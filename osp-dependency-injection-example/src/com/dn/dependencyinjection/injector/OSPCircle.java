@@ -1,6 +1,6 @@
-package com.osp.dependencyinjection.injector;
+package com.dn.dependencyinjection.injector;
 
-import com.osp.dependencyinjection.service.OSPShape;
+import com.dn.dependencyinjection.service.OSPShape;
 
 /**
  * @author muthukumar thangavinayagam

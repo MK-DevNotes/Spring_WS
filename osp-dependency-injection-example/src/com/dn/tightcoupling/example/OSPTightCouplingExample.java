@@ -1,8 +1,7 @@
-package com.osp.tightcoupling.example;
+package com.dn.tightcoupling.example;
 
-import com.osp.tightcoupling.example.Circle;
-import com.osp.tightcoupling.example.Triangle;
-//Tight Coupling Between Java Objects
+import com.dn.tightcoupling.example.Circle;
+import com.dn.tightcoupling.example.Triangle;
 
 /**
  * @author muthukumar
